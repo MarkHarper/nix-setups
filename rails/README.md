@@ -2,7 +2,7 @@
 
 ## Setup
 
-- replace RUBY_VERSION and POSTGRES_VERSION with valid nix package
+- replace RUBY_VERSION and POSTGRES_VERSION with valid nix packages
 
 ## shellHook functions
 
