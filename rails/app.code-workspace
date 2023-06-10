@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix",
+    "ruby.rubocop.executePath": "/nix/store/6rk15a26laxj2nhpgvjbx82xdbc3bpsj-ruby3.2.2-rubocop-1.50.2/bin/",
+    "solargraph.bundlerPath": "/nix/store/awjzswq56drrawghhp1a7pgkfizy00jk-ruby3.2.2-solargraph-0.49.0/bin/",
+    "solargraph.commandPath": "/nix/store/awjzswq56drrawghhp1a7pgkfizy00jk-ruby3.2.2-solargraph-0.49.0/bin/solargraph"
+  }
+}
